@@ -24,5 +24,5 @@ The goal of this project was to practice and understand the **glassmorphism UI t
 - HTML5
 - CSS3 (Glassmorphism, gradients, blur)
 
-## 📁 Project Structure
+# Author - Muskan Yadav
 
